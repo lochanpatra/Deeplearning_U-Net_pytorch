@@ -4,5 +4,5 @@ This project focuses on detecting and segmenting roads from satellite imagery of
 
 ---
 
-## 📁 Project Structure
+
 
